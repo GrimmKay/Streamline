@@ -1,0 +1,11 @@
+node_modules
+dist
+dist-ssr
+*.local
+
+# Capacitor native projects (added later, generated — don't hand-edit)
+/ios
+
+.DS_Store
+.env
+.env.local
