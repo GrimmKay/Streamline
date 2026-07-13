@@ -1,6 +1,6 @@
 # Privacy Policy for Streamline
 
-**Last updated: [INSERT DATE BEFORE PUBLISHING]**
+**Last updated: July 11, 2026**
 
 ## Overview
 
@@ -51,7 +51,7 @@ If Streamline adds features in the future that change how data is handled (for e
 
 If you have questions about this privacy policy, contact us at:
 
-**[INSERT YOUR CONTACT EMAIL HERE]**
+**Thecinderellegroup@yahoo.com**
 
 ---
 
